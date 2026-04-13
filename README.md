@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
+
+🎓 Economics student interested in data analysis and econometrics  
+
+📊 Currently working on:
+- Applied econometrics (R)
+- Regression analysis
+- Real-world data interpretation  
+
+📁 Featured Project:
+- [Intro Econometrics Portfolio](https://github.com/Ayushecon/intro-econometrics-portfolio)
+
+🚀 Goals:
+- Build strong data analysis skills  
+- Apply econometrics to real-world problems  ## Hi there 👋
 
 <!--
 **Ayushecon/Ayushecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
