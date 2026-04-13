@@ -12,7 +12,7 @@
 
 🚀 Goals:
 - Build strong data analysis skills  
-- Apply econometrics to real-world problems  ## Hi there 👋
+- Apply econometrics to real-world problems  
 
 <!--
 **Ayushecon/Ayushecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
